@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>İş Problemi</b><br>
-  Almanya merkezli otomotiv şirketi tanıtımını yapmış olduğu “Porsche Carrera S” otomobili ile ilgili sunuma ihtiyaç duymaktadır 
+  Almanya merkezli otomotiv şirketi tanıtımını yapmış olduğu “Porsche Carrera S” otomobili ile ilgili sunuma ihtiyaç duymaktadır<br>
   Bahsi geçen otomobil ile ilgili 3 boyutlu (3B) nesne aracılığıyla “Microsoft PowerPoint” üzerinde bir animasyonlu sunum gerçekleştirilecektir
 </p>
 
