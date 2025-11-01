@@ -15,7 +15,6 @@
   Hazırlanan animasyonlu sunumun görselleri PNG formatında paylaşılmıştır<br>
   Ayrıca çalışmanın teması tarafıma ait değildir ancak çalışma kapsamında yapılan eylemler tarafıma aittir
 </p>
-
 <img width="2560" height="1440" alt="Microsoft PowerPoint" src="https://github.com/user-attachments/assets/0aa61e84-a41a-482e-add3-51c41b2939be" />
 
 ---
