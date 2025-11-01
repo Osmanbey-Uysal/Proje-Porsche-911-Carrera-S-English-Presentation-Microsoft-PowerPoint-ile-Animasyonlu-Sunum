@@ -1,5 +1,6 @@
 <p align="center">
-  <b>Proje: DR. ING. H.C. F. PORSCHE AG | Microsoft PowerPoint ile Animasyonlu Sunum</b>
+  <b>Proje</b><br>
+  DR. ING. H.C. F. PORSCHE AG | Microsoft PowerPoint ile Animasyonlu Sunum</b>
 </p>
 
 ---
